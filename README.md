@@ -1,4 +1,4 @@
-**boas vindas** ao meu perfil
+**boas vindas** ao meu perfil🤓
 
 Meu nome é *Julia Megumi*
 Estou estudando na Alura
@@ -7,3 +7,5 @@ Ultilizo esse espaço para minha organização e compartilhamento dos meus proje
 Pode entrar em contato comigo!
 0001123913754sp@al.educacao.sp.gov.br
 @0001123913754sp
+
+![](https://tenor.com/pt-BR/view/dancing-gif-5396157768353997153)
