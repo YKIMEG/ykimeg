@@ -1,7 +1,5 @@
-## Hi there 👋
-<!--
-**YKIMEG/ykimeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+##boas vindas ao **meu perfil**
+
 Meu nome é Julia Megumi 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
